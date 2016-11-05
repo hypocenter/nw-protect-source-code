@@ -1,0 +1,11 @@
+{
+  "name": "nw-protect-source-code",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "run": "sdk/nwjs.app/Contents/MacOS/nwjs ."
+  },
+  "author": "",
+  "license": "ISC"
+}
