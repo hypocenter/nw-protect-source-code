@@ -3,3 +3,4 @@ sdk
 ssh
 *.bin
 browser.js
+renderer.js
